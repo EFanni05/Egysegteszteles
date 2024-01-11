@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egységtesztelés", "Egységtesztelés.csproj", "{31BF126D-3211-4192-B35F-8C3A763C5596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DologozatProject", "..\DologozatProject\DologozatProject.csproj", "{1BD3D344-4F6B-4C43-99B9-334EE8576930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BF126D-3211-4192-B35F-8C3A763C5596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BF126D-3211-4192-B35F-8C3A763C5596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BF126D-3211-4192-B35F-8C3A763C5596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BF126D-3211-4192-B35F-8C3A763C5596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD3D344-4F6B-4C43-99B9-334EE8576930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD3D344-4F6B-4C43-99B9-334EE8576930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD3D344-4F6B-4C43-99B9-334EE8576930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD3D344-4F6B-4C43-99B9-334EE8576930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20E1C73-E87D-4CBF-A729-92E44B2EF8A6}
+	EndGlobalSection
+EndGlobal
